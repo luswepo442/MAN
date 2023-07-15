@@ -1,0 +1,14 @@
+Navigation Map
+==============
+
+All links replace the current window and link to the home page.
+
+Spirit, Soul, and Body Home Page
+  No Style - Spirit, Soul, and Body
+  External Style - Spirit, Soul, and Body
+  External + Embedded Style - Spirit
+  External + Embedded Style - Soul
+  External + Embedded Style - Body
+  External + Embedded + Inline Style - Spirit
+  External + Embedded + Inline Style - Soul
+  External + Embedded + Inline Style - Body
